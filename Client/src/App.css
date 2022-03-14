@@ -1,0 +1,17 @@
+.skype{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(45deg, rgb(212, 212, 212), white);
+  width: 100%;
+  height: 100%;
+}
+.skype__main{
+  height: 80%;
+  width: 90%;
+  border: 1px solid lightgray;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 2px 2px 5px 3px rgba(0, 0, 0, 0.2);
+  padding: -20px;
+}
